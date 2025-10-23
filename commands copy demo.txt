@@ -11,4 +11,4 @@ Git diff <filename>
 
 git commit -m "Commit Message/Comment"
 
-Demo copy
+Demo copy проверка
