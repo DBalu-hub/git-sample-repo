@@ -8,8 +8,27 @@ git add
 git commit -m “”
 git log
 Git diff <filename>
+git remote add origin ‹GitHub Repository URL> git push origin master
 
 git commit -m "Commit Message/Comment"
+
+--------
+
+Scenario 1
+#irst Release -> Don
+Second Release
+2 Features
+2 People
+Third Release
+Featur . Perso
+Scenario
+No peop
+Person A = Automating test cas
+Automating test cas
+testMethodl - getName()
+Person A - Merge code to master
+Person B - Pull from master to private branch, merge code to master
+Scenario 3:
 
 
 Diagram
@@ -20,3 +39,6 @@ PrivateBranch1--
 -----Master--
 -Release---
 Pull and then merge
+=======
+
+
