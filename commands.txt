@@ -10,3 +10,13 @@ git log
 Git diff <filename>
 
 git commit -m "Commit Message/Comment"
+
+
+Diagram
+
+
+PrivateBranch1--
+-Release
+-----Master--
+-Release---
+Pull and then merge
